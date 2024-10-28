@@ -58,9 +58,9 @@ I have also been a volunteer supervisor at MotoGP Bharat for the Ducati stand, w
 
 ## 📫 Connect with Me!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dev-singhal-602026230/)
-- **Email**: [Your Email](singhaldev26@gmail.com)
-- **GitHub**: [@yourgithubusername](https://github.com/devDEV03)
+- **LinkedIn**: https://www.linkedin.com/in/dev-singhal-602026230
+- **Email**: singhaldev26@gmail.com
+- **GitHub**: https://github.com/devDEV03
 
 Thank you for visiting my profile! Let's connect and work on exciting projects together.
 
