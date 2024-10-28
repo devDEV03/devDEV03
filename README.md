@@ -40,7 +40,6 @@ This app utilizes **React.js** for the frontend and **Spring Boot** for the back
 
 ## 📈 Achievements
 
-- **Internship**: Successfully completed a Frontend Development internship where I mastered **React.js**.
 - **Hackathons & Volunteer Work**: Showcased web development, leadership, and teamwork skills through active participation in hackathons and volunteering. 
 
 ---
