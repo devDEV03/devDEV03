@@ -13,7 +13,7 @@ I'm a passionate Full Stack Developer with a keen interest in building scalable 
 ### **Backend**
 - **Languages**: Java, Kotlin
 - **Frameworks**: Spring Boot, Spring Security, Spring JPA
-- **Tools**: Docker, Maven, Gradle, Render
+- **Tools**: Maven, Gradle, Render
 - **Databases**: MySQL, MongoDB Atlas
 
 ### **DevOps & Tools**
