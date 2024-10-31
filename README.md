@@ -25,7 +25,8 @@ I'm a passionate Full Stack Developer with a keen interest in building scalable 
 ## 💼 Notable Projects
 
 ### 🚀 Netflix GPT
-An intelligent app powered by RAG using Spring AI and the Ollama model to provide college-specific information with PDF data integration. Firebase Authentication secures the platform while offering a robust user experience.
+A movie recommendation app using JavaScript, ReactJS, and Firebase, integrating TMDB and Gemini API’s for personalized suggestions. Implemented Redux for state management, and 
+used Tailwind CSS for responsive UI design. The app supports multilingual functionality. 
 
 ### 🍔 Food Ordering App
 Built with **React.js**, **Redux**, and **Tailwind CSS**, this app integrates Swiggy's public API, featuring multiple components and cart functionality for a seamless user experience.
