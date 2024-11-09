@@ -1,80 +1,22 @@
-# 👋 Hello, I'm Dev!
+<h1 align="center">Hi 👋, I'm Dev Singhal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm a passionate Full Stack Developer with a keen interest in building scalable and innovative applications. As a final-year B.Tech student, I have hands-on experience with Java Spring Boot, React.js, and a variety of modern web technologies, coupled with a growing skill set in AI integrations and mobile development. I love taking on new challenges, applying creativity, and continuously learning.
+- 🌱 I’m currently learning **TypeScript, Next.Js**
 
----
+- 👨‍💻 All of my projects are available at [https://devdev03.github.io/DevSinghalPortfolio/](https://devdev03.github.io/DevSinghalPortfolio/)
 
-## 🛠️ My Tech Stack
+- 💬 Ask me about **React,SpringBoot**
 
-### **Frontend**
-- **Languages**: HTML, CSS, JavaScript, Kotlin
-- **Frameworks**: React.js, Redux, Tailwind CSS, Jetpack Compose
+- 📫 How to reach me **singhaldev26@gmail.com**
 
-### **Backend**
-- **Languages**: Java, Kotlin
-- **Frameworks**: Spring Boot, Spring Security, Spring JPA
-- **Tools**: Maven, Gradle, Render
-- **Databases**: MySQL, MongoDB Atlas
+- ⚡ Fun fact **I can do the undertaker eyes**
 
-### **DevOps & Tools**
-- **Version Control**: Git, GitHub
-- **Testing**: JUnit, Postman
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devboiz26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboiz26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devdev_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devdev_03" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 💼 Notable Projects
-
-### 🚀 Netflix GPT
-A movie recommendation app using JavaScript, ReactJS, and Firebase, integrating TMDB and Gemini API’s for personalized suggestions. Implemented Redux for state management, and 
-used Tailwind CSS for responsive UI design. The app supports multilingual functionality. 
-
-### 🍔 Food Ordering App
-Built with **React.js**, **Redux**, and **Tailwind CSS**, this app integrates Swiggy's public API, featuring multiple components and cart functionality for a seamless user experience.
-
-### 📋 Employee Department Management System
-A full CRUD app using **React.js** (Frontend) and **Spring Boot** (Backend) that demonstrates relationships between employees and departments. Data is securely stored using **MongoDB Atlas**.
-
-### ✅ To-Do Management System
-This app utilizes **React.js** for the frontend and **Spring Boot** for the backend. Secured with **Spring Security** and **JWT**, the system includes MySQL integration.
-
----
-
-## 📈 Achievements
-
-- **Hackathons & Volunteer Work**: Showcased web development, leadership, and teamwork skills through active participation in hackathons and volunteering. 
-
----
-
-## 🎉 Volunteer Experiences
-I have also been a volunteer supervisor at MotoGP Bharat for the Ducati stand, where I honed my leadership, communication, and management skills.
-
----
-
-## 🎉 Badges
-
-[![An image of @devdev03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devdev03)](https://holopin.io/@devdev03)
-
----
-
-## 📫 Connect with Me!
-
-- **LinkedIn**: https://www.linkedin.com/in/dev-singhal-602026230
-- **Email**: singhaldev26@gmail.com
-- **GitHub**: https://github.com/devDEV03
-
-Thank you for visiting my profile! Let's connect and work on exciting projects together.
-
-<!--
-**devDEV03/devDEV03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
