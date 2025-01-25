@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer with a keen interest in building scalable 
 
 ### **Frontend**
 - **Languages**: HTML, CSS, JavaScript, Kotlin
-- **Frameworks**: React.js, Redux, Tailwind CSS, Jetpack Compose
+- **Frameworks**: React.js, Node.js, Redux, Tailwind CSS, Jetpack Compose
 
 ### **Backend**
 - **Languages**: Java, Kotlin
